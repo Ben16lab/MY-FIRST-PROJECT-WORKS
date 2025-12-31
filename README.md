@@ -15,7 +15,7 @@ The primary source of Data used here is Data sales.csv and this is an open sourc
 
 ### Tools used
 
-- Ms Excel for data cleaning [download here](https://www.microsoft.coom)
+- Ms Excel for data cleaning [download here](https://www.microsoft.com)
    - for data collection
    - for data cleaning
      1. data manipulation
