@@ -1,29 +1,35 @@
 # ALL STAR STORES ANALYSIS 
-this is where I started my portfolio building while taking my data analysis class with Arcbyte.
 
-I have learnt quite a number of things ranging from Ms Excel to SQL and now to my portfolio Building
+Power BI dashboard showcasing sales performance analysis for All Stars Store, including metrics such as total orders, revenue, transactions, and revenue breakdown by store type, region, and country.
 
-## Topic: E commerce sales Analysis
+## Topic: Sales Performance Analysis & Business Intelligence Dashboard
 
 ### project overview
+This project focuses on analyzing the sales performance of the fictional All Stars Store using interactive data visualization. The dashboard provides insights into key commercial metrics such as:
 
-This is data analysis project aims to generate insight into the sales performance of the E commerce project over the past yeaar. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisons which the enables us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
-
+- Total Order 
+- Total Revenue
+- Total Transactions
+- Revenue by Store Type
+- Revenue by Region
+- Revenue by Country
+- Monthly Performance Trends
+  
+The goal of the analysis is to support data-driven decision making by highlighting top-performing segments, identifying revenue distribution patterns, and enabling trend evaluation across geographic areas.
 ### Data sources
 
-The primary source of Data used here is Data sales.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site
+The primary source of Data used here is Data sales.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other dataset open repository.
 
 ### Tools used
 
-- Ms Excel for data cleaning [download here](https://www.microsoft.com)
-   - for data collection
-   - for data cleaning
-     1. data manipulation
-     2. data manching
+- Power BI Desktop [Download](https://power-bi-desktop.en.softonic.com)
+    - Data visualization
+    - dashboard design
+- Power Query
+    - Data transformation
+    - cleaning
+- DAX
+    - Measures
+    - calculations
 
-- SQL Iserver (for querying and Analysis)
-
-- Power BI (for creating a report)
-
-- Ms Power point (for presentation)
 
