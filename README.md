@@ -32,4 +32,15 @@ The primary source of Data used here is Data sales.csv and this is an open sourc
     - Measures
     - calculations
 
+### Data cleaning and preparation 
 
+
+Data preparation was performed using Power Query and Excel to ensure consistency, accuracy, and usability for reporting. Key preprocessing steps included:
+- 1. Data validation 
+- 2. column formatting 
+- 3. Handling missing values 
+- 4. Features renaming 
+- 5. Aggregation and calculations
+- 6. Data modelling 
+- 7. filtering and cleaning 
+- 8. performance optimisation
