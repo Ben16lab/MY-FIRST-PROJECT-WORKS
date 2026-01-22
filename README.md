@@ -1,4 +1,4 @@
-# MY-FIRST-PROJECT-WORKS
+# ALL STAR STORES ANALYSIS 
 this is where I started my portfolio building while taking my data analysis class with Arcbyte.
 
 I have learnt quite a number of things ranging from Ms Excel to SQL and now to my portfolio Building
